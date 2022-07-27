@@ -3,8 +3,8 @@
 Name: Israel Jacobovich
 ID: 212403679
 
-+ Notebook one: tring to improve the results  from last semester's final on classification
-  after the title: 'Tring Ensamble Methods'
++ Notebook one: trying to improve the results from last semester's final on classification
+  after the title: 'Trying Ensamble Methods'
   
 + Notebook two: DogsVScats
 + three: FasionMnist
